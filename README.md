@@ -5,4 +5,4 @@ Branches are used to develop features independently without affecting the main c
 This helps maintain clean version control and safe experimentation.
 The project follows basic Git best practices for learning and collaboration.
 this is main branch
-
+hi this is main branch
